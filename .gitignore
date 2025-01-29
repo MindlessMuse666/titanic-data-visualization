@@ -1,0 +1,7 @@
+.idea
+
+# Virtual environment
+.venv
+
+# Cache
+__pycache__
